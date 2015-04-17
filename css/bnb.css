@@ -4,4 +4,9 @@
 
 .email-link {
   font-size: 32px;
+  color: #d84080;
 }
+
+  .email-link:hover {
+    color: #d84080;
+  }
